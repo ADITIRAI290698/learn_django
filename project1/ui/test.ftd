@@ -1,5 +1,4 @@
--- string text-from-processor:
+-- string pro:
 $processor$: simple_processor
 
--- ftd.text: $text-from-processor
-
+-- ftd.text: $pro
