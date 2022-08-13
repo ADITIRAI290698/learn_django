@@ -1,0 +1,5 @@
+-- string text-from-processor:
+$processor$: simple_processor
+
+-- ftd.text: $text-from-processor
+
